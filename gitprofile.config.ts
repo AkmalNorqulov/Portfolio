@@ -105,13 +105,13 @@ const CONFIG = {
       name: 'IELTS',
       body: 'IELTS Band Score: 7.5 (Listening: 8.0, Reading: 7.0, Writing: 7.0, Speaking: 7.5)',
       year: 'May 2025',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1n-b1tNCc_GHrFIXobyJ6MAGSa85OVnyR/view?usp=sharing',
     },
     {
       name: 'CEFR B2',
       body: 'Certified at CEFR B2 level with a score of 63.',
       year: 'January 2025',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1vOtPNc-Mpi1BpMO2xI9FLhE-UUSafAjG/view?usp=sharing',
     },
   ],
   educations: [

@@ -93,40 +93,39 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
+      company: 'School-60',
+      position: 'Web-Developer',
+      from: 'March 2024',
+      to: 'August 2024',
+      companyLink: 'https://sch60l.netlify.app',
+    }
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'IELTS',
+      body: 'IELTS Band Score: 7.5 (Listening: 8.0, Reading: 7.0, Writing: 7.0, Speaking: 7.5)',
+      year: 'May 2025',
+      link: 'https://example.com',
+    },
+    {
+      name: 'CEFR B2',
+      body: 'Certified at CEFR B2 level with a score of 63.',
+      year: 'January 2025',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'IT Centre',
+      degree: 'Backend Developer',
+      from: '2025',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: '5-Tashabbus IT LC',
+      degree: 'Frontend Web Developer',
+      from: '2024',
+      to: '2025',
     },
   ],
   publications: [
@@ -164,11 +163,11 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dim',
+    defaultTheme: 'night',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
